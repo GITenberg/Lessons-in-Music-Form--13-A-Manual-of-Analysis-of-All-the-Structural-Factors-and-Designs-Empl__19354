@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8613
     wikipedia: http://en.wikipedia.org/wiki/Percy_Goetschius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19354#Lessons-in-Music-Form--13-A-Manual-of-Analysis-of-All-the-Structural-Factors-and-Designs-Empl_
 gutenberg_bookshelf: Music
 gutenberg_issued: '2006-09-22'
 gutenberg_type: Text
