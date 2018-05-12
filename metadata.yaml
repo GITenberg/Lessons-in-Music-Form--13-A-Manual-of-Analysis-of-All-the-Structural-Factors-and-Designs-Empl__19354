@@ -1,0 +1,29 @@
+_repo: Lessons-in-Music-Form--13-A-Manual-of-Analysis-of-All-the-Structural-Factors-and-Designs-Empl__19354
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goetschius, Percy
+    birthdate: 1853
+    deathdate: 1943
+    gutenberg_agent_id: '8613'
+    url: http://www.gutenberg.org/2009/agents/8613
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Goetschius
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Musical form'
+title: "Lessons in Music Form\r\nA Manual of Analysis of All the Structural Factors\
+  \ and Designs Employed in Musical Composition"
+url: http://www.gutenberg.org/ebooks/19354
